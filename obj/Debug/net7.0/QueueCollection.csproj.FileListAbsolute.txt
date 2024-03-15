@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/bin/Debug/net7.0/QueueCollection
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/bin/Debug/net7.0/QueueCollection.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/bin/Debug/net7.0/QueueCollection.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/bin/Debug/net7.0/QueueCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/bin/Debug/net7.0/QueueCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/QueueCollection.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/QueueCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/QueueCollection.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/QueueCollection.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/QueueCollection.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/QueueCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/refint/QueueCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/QueueCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/QueueCollection.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/QueueCollection/obj/Debug/net7.0/ref/QueueCollection.dll
